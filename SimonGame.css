@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+.btn{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2rem;
+   
+}
+.div-container{
+    
+    display: flex;
+    justify-content: center;
+    
+}
+h2{
+    color: deeppink;
+}
+h1{
+    color: darkcyan;
+}
+
+.red{
+    background-color: #ffaebc;
+}
+.yellow{
+    background-color: #fbe7c6;
+}
+.green{
+    background-color: #b4f8c8;
+}
+.purple{
+    background-color: #a0e7e5;
+}
+.Flash{
+    background-color: white;
+}
